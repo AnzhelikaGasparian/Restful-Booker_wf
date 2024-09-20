@@ -15,7 +15,7 @@ on:
    
 jobs:
   run-tests:
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
     name: Run autotests
     steps:
       - name: Run autotests
